@@ -1,4 +1,4 @@
-# Multi Theft Auto Role Play Bot 
+# Multi Theft Auto Roleplay Bot 
 
 ## About
 Bot created by Mr3b#8653 so that the player can link his account in the game to the bot in Discord made with love.
