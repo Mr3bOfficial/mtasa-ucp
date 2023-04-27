@@ -16,8 +16,8 @@ Bot created by Mr3b#8653 so that the player can link his account in the game to 
 5 - Type ```node server.js``` to start the bot that's all
 
 ## Contributors
-| <img src="https://cdn.discordapp.com/avatars/832459210327064626/7a053dbe144e859c87cd160308389c56.png" width="115"><br><sub>Mr3b#8653</sub> | <img src="https://cdn.discordapp.com/avatars/831643063801479188/2ed6387be7498ff75c8c66c7fca0f0ab.png" width="115"><br><sub>element.#7367</sub> |
-| :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://cdn.discordapp.com/avatars/832459210327064626/7a053dbe144e859c87cd160308389c56.png" width="115"><br><sub>Mr3b#8653</sub> |
+| :---------------------------------------------------------------------------------------------------------------------: |
 
 <br>
 <a href="https://discord.gg/hGXmAC5est"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></img>
